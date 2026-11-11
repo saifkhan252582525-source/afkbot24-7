@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Saif",
-    "password": "",
+    "password": "123456789",
     "type": "offline"
   },
   "server": {
     "ip": "ggsmp-WLeb.aternos.me",
     "port": 57802,
-    "version": "26.3",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
