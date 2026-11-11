@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "zyronbot",
+    "username": "Saif",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "SoloPlayz"
     },
     "anti-afk": {
@@ -32,7 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to ZyronLauncher",
+        "love from saif",
+        "best minecraft launcher https://discord.gg/MpAnjA4RbH"
       ]
     },
     "chat-log": true,
